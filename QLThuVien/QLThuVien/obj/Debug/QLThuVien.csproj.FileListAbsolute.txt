@@ -1,0 +1,12 @@
+Q:\Học_C#\BT\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe.config
+Q:\Học_C#\BT\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe
+Q:\Học_C#\BT\QLThuVien\QLThuVien\bin\Debug\QLThuVien.pdb
+Q:\Học_C#\BT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.AssemblyReference.cache
+Q:\Học_C#\BT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.Properties.Resources.resources
+Q:\Học_C#\BT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.GenerateResource.cache
+Q:\Học_C#\BT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.CoreCompileInputs.cache
+Q:\Học_C#\BT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.exe
+Q:\Học_C#\BT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.pdb
+Q:\Học_C#\BT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.Main.resources
+Q:\Học_C#\BT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.SachGiaoKhoa.resources
+Q:\Học_C#\BT\QLThuVien\QLThuVien\obj\Debug\QLThuVien.SachThamKhao.resources

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\QLThuVien",
+    "\\QLThuVien\\QLThuVien",
+    "\\QLThuVien\\QLThuVien\\BusinessLogicLayer",
+    "\\QLThuVien\\QLThuVien\\BusinessLogicLayer\\Models",
+    "\\QLThuVien\\QLThuVien\\PresentationLayer",
+    "\\QLThuVien\\QLThuVien\\PresentationLayer\\Controllers",
+    "\\QLThuVien\\QLThuVien\\PresentationLayer\\Views"
+  ],
+  "SelectedNode": "\\QLThuVien\\QLThuVien\\Main.cs",
+  "PreviewInSolutionExplorer": false
+}
